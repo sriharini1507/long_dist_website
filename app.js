@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/fireba
 import { getDatabase, ref, set, push, onValue } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD7PCb0SI9_v8e9pG6btPgLphTRjj-pjkE",
+  apiKey: "",
   authDomain: "cutie-pattoottiee.firebaseapp.com",
   databaseURL: "https://cutie-pattoottiee-default-rtdb.firebaseio.com",
   projectId: "cutie-pattoottiee",
